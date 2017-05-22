@@ -1,0 +1,6 @@
+c:\users\warda\onedrive\dokumenty\visual studio 2017\Projects\TimetableSchedule\TimetableSchedule\bin\Debug\TimetableSchedule.exe.config
+c:\users\warda\onedrive\dokumenty\visual studio 2017\Projects\TimetableSchedule\TimetableSchedule\bin\Debug\TimetableSchedule.exe
+c:\users\warda\onedrive\dokumenty\visual studio 2017\Projects\TimetableSchedule\TimetableSchedule\bin\Debug\TimetableSchedule.pdb
+c:\users\warda\onedrive\dokumenty\visual studio 2017\Projects\TimetableSchedule\TimetableSchedule\obj\Debug\TimetableSchedule.csprojResolveAssemblyReference.cache
+c:\users\warda\onedrive\dokumenty\visual studio 2017\Projects\TimetableSchedule\TimetableSchedule\obj\Debug\TimetableSchedule.exe
+c:\users\warda\onedrive\dokumenty\visual studio 2017\Projects\TimetableSchedule\TimetableSchedule\obj\Debug\TimetableSchedule.pdb
